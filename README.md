@@ -25,33 +25,12 @@ CONEHCIMENTOS EM SOFTWARE
 
 
           
-          
-<!--
-- 👨🏻‍💻 **Professor** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
-- 🧗🏼 Apaixonado por **escalada**
-- 📸 Também falo sobre **Ciência de Dados** no YouTube da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
-- 🖥️ Atualmente mais focado em:
-
--->
-##
 
 ### Você também me encontra em:
 &nbsp;<a href="https://br.linkedin.com/in/henriquepignato">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 
-
-<!--
-&nbsp;<a href="https://llucaslleall.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/_llucaslleall/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.youtube.com/@HashtagProgramacao">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>&nbsp;
--->
 
 <!--
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
@@ -67,36 +46,4 @@ CONEHCIMENTOS EM SOFTWARE
 - <a href="https://llucaslleall.medium.com/5-dicas-que-eu-gostaria-de-ter-escutado-quando-comecei-em-ci%C3%AAncia-de-dados-721735cd83c2">
     5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)
   </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
--->
-<!--
-**Henrique-Pignato/Henrique-Pignato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
