@@ -1,5 +1,5 @@
 ### Olá, sou Henrique Pignato :)
-Atualmente Engenheiro da Computação, no 4º Semestre do Centro Universitário Salesiano de São Paulo (UNISAL), apaixonado em programação, especialmente nas áreas de analise de dados e ciência de dados.
+Atualmente Engenheiro da Computação, no Centro Universitário Salesiano de São Paulo (UNISAL), apaixonado em programação, especialmente nas áreas de analise de dados e ciência de dados.
 
 CONHECIMENTOS EM SOFTWARE
 ---
