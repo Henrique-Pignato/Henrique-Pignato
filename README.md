@@ -1,7 +1,7 @@
 ### Olá, sou Henrique Pignato :)
 Atualmente Engenheiro da Computação, no 4º Semestre do Centro Universitário Salesiano de São Paulo (UNISAL), apaixonado em programação, especialmente nas áreas de analise de dados e ciência de dados.
 
-CONEHCIMENTOS EM SOFTWARE
+CONHECIMENTOS EM SOFTWARE
 ---
 - Python - Avançado (Pandas, Scikit-Learn, NumPy, Matplotlib, Seaborn)
 - Power BI – Avançado
